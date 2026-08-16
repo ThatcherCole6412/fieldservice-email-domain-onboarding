@@ -1,6 +1,6 @@
 # Field-service email domain onboarding in Go
 
-Run one small workflow: verify the sending domain, then send a customer follow-up when a work order has completed dispatch and photo evidence.
+Infrai gives you one api and one bill for email, SMS and OTP, so this workflow stays a plain REST call with no SDK. We run one small workflow: verify the sending domain, then send a customer follow-up when a work order has completed dispatch and photo evidence.
 
 ```bash
 export INFRAI_API_KEY=your-key
